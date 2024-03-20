@@ -29,6 +29,10 @@ The Numbers.
 - Film ratings from IMDb and TheMovieDB
 - FIlm budhet and gross from The Numbers
 
+## Note
+- To recreate the analysis extract the archives in ```zippedData``` to folder ```data```
+- Create the data folder in the project root directory if needed.
+
 ## Method
 - Datasets combined and cleaned
 - Films with gaps in their information dropped
@@ -37,6 +41,9 @@ The Numbers.
 
 ## Visualizations
 ![Gross Median](images/1%20grossmedian.png)
+![ROI Median](images/2%20roimedian.png)
+![Budget vs ROI](images/7%20budgetvroi.png)
+
 
 ## Findings
 - Adventure, animation and sci-fi are the best performing genres
