@@ -27,7 +27,7 @@ The film data used in this analysis was sourced from IMDb, The Movie Database an
 The Numbers.
 - Film names from IMDb
 - Film ratings from IMDb and TheMovieDB
-- FIlm budhet and gross from The Numbers
+- Film budget and gross from The Numbers
 
 ## Note
 - To recreate the analysis extract the archives in ```zippedData``` to folder ```data```
